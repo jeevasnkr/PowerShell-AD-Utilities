@@ -3,7 +3,7 @@
 Dec 18, 2021
 
 .AUTHOR/CONTACT INFORMATION
-jeevasnkr@gmail.com 
+jeevashnkr45@gmail.com  
 
 .DESCRIPTION
 The purpose of this script is to create a random complex password 
